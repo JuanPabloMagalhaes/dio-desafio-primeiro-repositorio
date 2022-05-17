@@ -1,2 +1,2 @@
-# dio-desafio-primeiro-repositorio
+Repositório do desafio de projeto dio!
 Desafio de projeto dio
